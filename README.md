@@ -9,17 +9,13 @@
 
 本仓库以后只更新`白眼狼`和`逆天发言`
 
-警惕白眼狼🤣👇 QQ:3028172686 
-
-![/res/1.png](https://github.com/Jiang-Night/Kernel_driver_hack/blob/main/res/2.png)
-
-
-
 一眼就知道什么成分🤣👇 QQ:282199034
 
 ![/res/1.png](https://github.com/Jiang-Night/Kernel_driver_hack/blob/main/res/2.jpg)
 
 
+
+👆上面这位大牛说 怕我学会了git 删除commit，要不睁开双眼看看再说话呢🤣，真的显得你很没见识
 
 共创者  [Rogo](https://github.com/rogxo/kernel_hack)。以及主要测试以及机型适配提供： [LuMing](https://github.com/smm800)，感谢大佬的帮助:[小黑](https://github.com/GameCheatExpert)
 
