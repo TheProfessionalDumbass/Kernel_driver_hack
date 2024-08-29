@@ -1,9 +1,15 @@
 # Kernel_driver_hack
 > Android/Linux Kernel driver read and write  memory.
 
-警惕白眼狼🤣👇
+警惕白眼狼🤣👇 QQ:3028172686 
 
 ![/res/1.png](https://github.com/Jiang-Night/Kernel_driver_hack/blob/main/res/2.png)
+
+
+
+一眼就知道什么成分🤣👇 QQ:282199034
+
+![/res/1.png](https://github.com/Jiang-Night/Kernel_driver_hack/blob/main/res/2.jpg)
 
 ##### ~~暂时无法读取bss段内存~~
 
