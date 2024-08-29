@@ -1,0 +1,11 @@
+typedef struct _COPY_MEMORY
+{
+} COPY_MEMORY, *PCOPY_MEMORY;
+
+typedef struct _MODULE_BASE
+{
+} MODULE_BASE, *PMODULE_BASE;
+
+enum OPERATIONS
+{
+};
